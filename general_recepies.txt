@@ -1,5 +1,4 @@
 General recipes
-<<<<<<< HEAD
 advance gene recipes pro ultra
 df sdf s
 gen recep3
